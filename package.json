@@ -1,0 +1,21 @@
+{
+  "name": "project-management-system",
+  "version": "1.0.0",
+  "description": "a project management application for noobs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "api",
+    "creation"
+  ],
+  "author": "saad",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
