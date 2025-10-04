@@ -310,7 +310,3 @@ Adapt as needed for your framework (Express/Fastify) and language (JS/TS).
 - 403 Forbidden: user role may not have permission for the endpoint
 - Token refresh failing: confirm refresh token cookie/header is being sent and not revoked/expired
 
-## License
-
-MIT or your preferred license. Replace this section if you have a specific license.
-
